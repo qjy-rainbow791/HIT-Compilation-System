@@ -1,0 +1,3 @@
+make
+./parser test1.cmm test2.cmm test3.cmm test4.cmm test5.cmm test6.cmm test7.cmm test8.cmm test9.cmm test10.cmm
+gedit result.txt
